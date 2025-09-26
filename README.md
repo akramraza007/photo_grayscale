@@ -25,3 +25,10 @@ Run the script
 - The saved image will be in grayscale format.
 - Close the image window manually after viewing.
 
+
+Installation
+Follow these steps to set up the project locally:
+
+Clone the Repository:
+```git clone https://github.com/akramraza007/photo_grayscale```
+
