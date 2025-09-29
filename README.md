@@ -13,7 +13,7 @@ This Python script allows users to load an image, convert it to grayscale, and e
 - The saved image will be in grayscale format.
 - Close the image window manually after viewing.
 
-🔧Installation
+🔧 Installation
 Follow these steps to set up the project locally:
 
 Clone the Repository:
@@ -31,4 +31,5 @@ pip install opencv-python
 ```
 Run the script
 ``` python grayscale_tool.py```
+
 
