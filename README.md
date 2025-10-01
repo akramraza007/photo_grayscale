@@ -24,7 +24,10 @@ This Python script allows users to load an image, convert it to grayscale, and e
   ``` bash
   git clone https://github.com/akramraza007/photo_grayscale
   ```
-
+- Go Into the Project Folder
+  ```base
+  cd photo_grayscale
+  ```
 - Install dependencies using pip if not already installed:
   ``` bash
   pip install opencv-python
@@ -33,6 +36,7 @@ This Python script allows users to load an image, convert it to grayscale, and e
   ```bash
   python grayscale_tool.py
   ```
+
 
 
 
